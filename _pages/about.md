@@ -27,6 +27,7 @@ My CV can be found [here](../assets/CV_chongyou.pdf).
 
 
 # 🔥 News
+- [2025.07] Gemma3n, available on [Hugging Face](https://huggingface.co/docs/transformers/main/en/model_doc/gemma3n), comes with activation sparsity from using our Statistical Top-K introduced in the [Spark Transformer](https://arxiv.org/abs/2506.06644) paper.
 - [2025.06] Paper Release: [Spark Transformer](https://arxiv.org/abs/2506.06644), which follows up on our earlier works — [Lazy Neuron, 2022](https://arxiv.org/abs/2210.06313) and [HiRE, 2024](https://arxiv.org/abs/2402.09360) — to introduce a strong activation sparsity (8% nonzeros in FFN and top-256 in Attention) to modern LLMs.
 - [2025.03] Co-organized [Conference on Parsimony and Learning (CPAL)](https://cpal.cc/) at Stanford, CA
 
