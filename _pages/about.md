@@ -17,14 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a Research Scientist at Google Research in NYC, where I work on sparsity, information retrieval, foundation models, and their intersections.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Before Google, I was a postdoc at UC Berkeley working with Prof. [Yi Ma](https://people.eecs.berkeley.edu/~yima/). I received my PhD in ECE at Johns Hopkins University in 2018, advised by Prof. [René Vidal](http://vision.jhu.edu/rvidal.html). Prior to Hopkins, I got my B.S. and M.S. degrees at Peking University. 
+
+My research areas broadly include machine learning, computer vision, optimization and signal processing. I am interested in the development of mathematical principles and practical numerical algorithms for analyzing and interpreting modern data.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- [2025.06] Paper Release: [Spark Transformer](https://arxiv.org/abs/2506.06644), which follows up on our earlier works — [Lazy Neuron, 2022](https://arxiv.org/abs/2210.06313) and [HiRE, 2024](https://arxiv.org/abs/2402.09360) — to introduce a strong activation sparsity (8% nonzeros in FFN and top-256 in Attention) to modern LLMs.
+- [2025.03] Co-organized [Conference on Parsimony and Learning (CPAL)](https://cpal.cc/) at Stanford, CA
 
 # 📝 Publications 
 
