@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Chong You' Homepage"
-description              : "Homepage. "
-repository               : "ChongYou/cyou.github.io"
+description              : "Homepage"
+repository               : "ChongYou/ChongYou.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
