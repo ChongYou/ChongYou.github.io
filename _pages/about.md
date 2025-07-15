@@ -21,7 +21,9 @@ I am a Research Scientist at Google Research in NYC, where I work on sparsity, i
 
 Before Google, I was a postdoc at UC Berkeley working with Prof. [Yi Ma](https://people.eecs.berkeley.edu/~yima/). I received my PhD in ECE at Johns Hopkins University in 2018, advised by Prof. [René Vidal](http://vision.jhu.edu/rvidal.html). Prior to Hopkins, I got my B.S. and M.S. degrees at Peking University. 
 
-My research areas broadly include machine learning, computer vision, optimization and signal processing. I am interested in the development of mathematical principles and practical numerical algorithms for analyzing and interpreting modern data.
+My research areas broadly include machine learning, computer vision, optimization and signal processing. I am interested in the development of mathematical principles and practical numerical algorithms for analyzing and interpreting modern data. 
+
+My CV can be found [here](../assets/CV_chongyou.pdf).
 
 
 # 🔥 News
