@@ -51,9 +51,10 @@ Zonglin Li\*, <ins>Chong You</ins>\*, Srinadh Bhojanapalli, Daliang Li, Ankit Si
 
 ### Retrieval and Generative Models
 
-- **ReTuning: Towards Scalable In-context Retrieval**<br/>
+- **Scalable In-context Ranking with Generative Models**<br/>
 Nilesh Gupta, <ins>Chong You</ins>, Srinadh Bhojanapalli, Sanjiv Kumar, Inderjit S Dhillon, Felix Yu<br/>
 *Neural Information Processing Systems **(NeurIPS)***, 2025<br/>
+[\[Arxiv\]](https://arxiv.org/abs/2510.05396)
 
 - **Hierarchical Retrieval: The Geometry and a Pretrain-Finetune Recipe**<br/>
 <ins>Chong You</ins>, Rajesh Jayaram, Ananda Theertha Suresh, Robin Nittka, Felix X. Yu, Sanjiv Kumar<br/>
