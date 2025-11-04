@@ -27,9 +27,9 @@ My CV can be found [here](../assets/CV_chongyou.pdf).
 
 
 # 🔥 News
+- [2025.11] Check out [BlockRank](https://github.com/nilesh2797/BlockRank) for making your LLM ranker more efficient and performant via structured sparse attention and attention-based inference.
 - [2025.07] Gemma3n, available on [Hugging Face](https://huggingface.co/docs/transformers/main/en/model_doc/gemma3n), comes with activation sparsity from using our Statistical Top-K introduced in the [Spark Transformer](https://arxiv.org/abs/2506.06644) paper.
 - [2025.06] Paper Release: [Spark Transformer](https://arxiv.org/abs/2506.06644), which follows up on our earlier works — [Lazy Neuron, 2022](https://arxiv.org/abs/2210.06313) and [HiRE, 2024](https://arxiv.org/abs/2402.09360) — to introduce a strong activation sparsity (8% nonzeros in FFN and top-256 in Attention) to modern LLMs.
-- [2025.03] Co-organized [Conference on Parsimony and Learning (CPAL)](https://cpal.cc/) at Stanford, CA
 
 # 📝 Recent Publications
 
@@ -54,7 +54,7 @@ Zonglin Li\*, <ins>Chong You</ins>\*, Srinadh Bhojanapalli, Daliang Li, Ankit Si
 - **Scalable In-context Ranking with Generative Models**<br/>
 Nilesh Gupta, <ins>Chong You</ins>, Srinadh Bhojanapalli, Sanjiv Kumar, Inderjit S Dhillon, Felix Yu<br/>
 *Neural Information Processing Systems **(NeurIPS)***, 2025<br/>
-[\[Arxiv\]](https://arxiv.org/abs/2510.05396)
+[\[Arxiv\]](https://arxiv.org/abs/2510.05396) [\[Code\]](https://github.com/nilesh2797/BlockRank)
 
 - **Hierarchical Retrieval: The Geometry and a Pretrain-Finetune Recipe**<br/>
 <ins>Chong You</ins>, Rajesh Jayaram, Ananda Theertha Suresh, Robin Nittka, Felix X. Yu, Sanjiv Kumar<br/>
