@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chong You"
   avatar           : "images/profile.png"
-  bio              : "Google Research"
+  bio              : "Google DeepMind, GenAI"
   location         : "New York City"
   employer         :
   pubmed           : 
